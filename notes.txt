@@ -5,3 +5,4 @@
 * make changes on main
 * make some amendments to video view
 * changes in video view
+* changes in video view 2
