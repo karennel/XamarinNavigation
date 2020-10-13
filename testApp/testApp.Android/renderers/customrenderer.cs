@@ -1,14 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using Foundation;
-using UIKit;
-
-namespace testApp.iOS.renderers
+﻿namespace testApp.iOS.renderers
 {
   class customrenderer
   {
+    // make some changes to the custom renderers
   }
 }
