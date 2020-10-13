@@ -1,4 +1,5 @@
 ﻿using System;
+using testApp.ViewModels;
 using Xamarin.Forms;
 
 namespace testApp
@@ -12,7 +13,7 @@ namespace testApp
 
 		async void OnEnterButtonClicked(object sender, EventArgs e)
 		{
-			await Navigation.PushAsync(new ListPage());
+			await Navigation.PushAsync(new View1());
 		}
 	}
 }
