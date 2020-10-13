@@ -4,3 +4,4 @@
 * Make some changes to the custom renderers
 * make changes on main
 * make some amendments to video view
+* changes in video view
