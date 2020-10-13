@@ -1,1 +1,2 @@
-Initial notes
+* Initial notes
+* Adding main branch page on new branch
